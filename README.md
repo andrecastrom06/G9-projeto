@@ -1,6 +1,10 @@
 # G9-projeto
+*Links:
+Jira: https://g9cafe.atlassian.net/jira/software/projects/PJT/boards/1
+Miro: http://miro.com/app/board/uXjVNmDfEYc=/
+Figma: 
 
-Integrantes:
+*Integrantes:
 André Castro
 Caio Lima
 Diego Vougan
