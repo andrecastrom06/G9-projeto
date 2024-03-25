@@ -2,7 +2,7 @@
 *Links:
 Jira: https://g9cafe.atlassian.net/jira/software/projects/PJT/boards/1
 Miro: http://miro.com/app/board/uXjVNmDfEYc=/
-Figma: 
+Marvel: https://marvelapp.com/prototype/31c4ihjg?
 
 *Integrantes:
 André Castro;
