@@ -6,6 +6,8 @@ Miro: http://miro.com/app/board/uXjVNmDfEYc=/
 -> No Miro, estão as ideias acerca do problema debatido pelo grupo, sendo essa a plataforma onde foi realizada a ideação.
 Marvel: https://marvelapp.com/prototype/31c4ihjg?
 -> No Marvel, estão presentes os protótipos de baixa para conclusão do SR1.
+Docs: https://docs.google.com/document/d/1Robh6CMUVrEIiazl-qQwZ7la3a8FL5xI4hRU-CUos2Q/edit
+-> No Docs, está presente o relatório informando o que foi feito semana a semana.
 
 *Integrantes:
 André Castro;
